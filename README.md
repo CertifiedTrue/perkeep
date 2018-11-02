@@ -6,13 +6,13 @@
 
 - [Perkeep Home](https://perkeep.org/)
 - [Perkeep Docs](https://perkeep.org/doc/)
-- [CerifiedTrue Dev] (https://certifiedtrue.github.io/)
+-  CertifiedTrue Dev (https://certifiedtrue.github.io/)
 
 ### Other useful files
 
 - [BUILDING](BUILDING) - how to compile it ("go run make.go")
 - [CONTRIBUTING](CONTRIBUTING.md) - how to do development and contribute
-- [CLIENTS] (MAKEFILE) - how to build Android client using Docker (clients/android/Makefile)
+- CLIENTS (MAKEFILE) - how to build Android client using Docker (clients/android/Makefile)
 
 ### CertifiedTrue Perkeep Resources
 
