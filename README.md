@@ -6,19 +6,21 @@
 
 - [Perkeep Home](https://perkeep.org/)
 - [Perkeep Docs](https://perkeep.org/doc/)
+- [CerifiedTrue Dev] (https://certifiedtrue.github.io/)
 
 ### Other useful files
 
 - [BUILDING](BUILDING) - how to compile it ("go run make.go")
 - [CONTRIBUTING](CONTRIBUTING.md) - how to do development and contribute
+- [CLIENTS] (MAKEFILE) - how to build Android client using Docker (clients/android/Makefile)
 
-### Perkeep Resources
+### CertifiedTrue Perkeep Resources
 
 - [Community](http://perkeep.org/community)
 - [Bugs and Issues](https://github.com/perkeep/perkeep/issues)
 - [Contributing](https://perkeep.org/code#contributing)
 
-### Continuous Integration
+### CertifiedTrue Continuous Integration
 
 <table><tr>
  <td>Linux: </td>
@@ -32,3 +34,7 @@
 Please note that this project uses a
 [Contributor Code of Conduct](https://opensource.google.com/conduct/).
 By participating in this project you agree to abide by its terms.
+
+### License
+
+Apache 2.0 
