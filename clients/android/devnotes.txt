@@ -1,0 +1,6 @@
+The minSdk version should not be declared in the android manifest file. You can move the version from the manifest to the defaultConfig in the build.gradle file.
+Open Manifest File
+Remove minSdkVersion and sync project
+
+
+The targetSdk version should not be declared in the android manifest file. You can move the version from the manifest to the defaultConfig in the build.gradle file.
