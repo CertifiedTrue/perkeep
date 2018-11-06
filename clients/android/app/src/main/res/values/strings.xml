@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Perkeep Uploader</string>
+    <string name="app_name">CertifiedTrue Uploader</string>
     <string name="settings_confirmation_dialog_title">Use these settings?</string>
-    <string name="settings_host_title">Perkeep server</string>
-    <string name="settings_host_summary">e.g. https://foo.example.com or &quot;example.com:3179&quot;</string>
+    <string name="settings_host_title">CertTrue server</string>
+    <string name="settings_host_summary">e.g. https://foo.certstore.com or &quot;certstore.com:3179&quot;</string>
     <string name="profiles_title">Current profile</string>
     <string name="profiles_summary">default</string>
     <string name="settings_qr_title">QR</string>
@@ -36,9 +36,9 @@
     <string name="browse">Browse</string>
     <string name="results">Results</string>
     <string name="settings_auto_required_ssid">Required SSID</string>
-    <string name="notification_title">Perkeep auto-uploader</string>
-    <string name="channel_id">perkeep auto-upload channel</string>
+    <string name="notification_title">CertTrue auto-uploader</string>
+    <string name="channel_id">certture auto-upload channel</string>
     <string name="channel_name">Auto-upload state</string>
-    <string name="channel_description">State of Perkeep auto-uploader</string>
+    <string name="channel_description">State of CertTrue auto-uploader</string>
 
 </resources>

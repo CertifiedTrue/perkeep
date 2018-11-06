@@ -6,3 +6,4 @@ test/local.properties
 test/build
 test/gen
 test/bin
+.idea/
