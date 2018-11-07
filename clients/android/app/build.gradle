@@ -16,7 +16,8 @@ def keystoreProperties = new Properties()
 keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 26
+    buildToolsVersion '28.0.3'
 
     // TODO(mpl): this should make signing the apk automatic when building the
     // release flavor, but it does not seem to. figure out why. use Makefile in the
@@ -31,7 +32,7 @@ android {
 
     defaultConfig {
         applicationId "org.camlistore"
-        minSdkVersion 14
+        minSdkVersion 16
         // Stay below API 26 for a while, because it deprecates the Notification Builder
         // constructor we're using.
         targetSdkVersion 26
